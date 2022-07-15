@@ -1,0 +1,23 @@
+.counter{
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+    width: 250px;
+    height: 50px;
+    border: solid 3px black;
+    border-radius: 10px;
+    background-color: deepskyblue;
+}
+
+.countFive{
+    text-align: center;
+
+    margin: auto;
+    width: 250px;
+    height: 50px;
+    border: solid 3px black;
+    border-radius: 10px;
+    background-color: deepskyblue;
+    color: red;
+    font-size: 40px;
+}
